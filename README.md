@@ -6,7 +6,6 @@ Ce projet vise à détecter automatiquement les dislocations dans des matériaux
 
 - `notebooks/` : Notebook principal d'entraînement et d'évaluation du modèle U-Net.
 - `src/` : Scripts Python pour la préparation des données, l'annotation interactive et la création de patches.
-- `figures/` : Figures illustratives du pipeline et des résultats.
 
 ## 🚀 Usage
 
